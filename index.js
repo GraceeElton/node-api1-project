@@ -26,6 +26,46 @@ let users = [
     name: "Intrucduction To APril",
     bio: "She is a great cook! ANd i may be in love with her",
   },
+  {
+    id: 3,
+    name: "Intrucduction To Srah",
+    bio: "I like the way her mind thinks. ",
+  },
+  {
+    id: 4,
+    name: "Intrucduction To Christian",
+    bio: "I will beat you one dat",
+  },
+  {
+    id: 5,
+    name: "Intrucduction To suzy",
+    bio: "haha you wish ",
+  },
+  {
+    id: 6,
+    name: "Intrucduction To sister",
+    bio: "lame",
+  },
+  {
+    id: 7,
+    name: "Intrucduction To blah blah",
+    bio: "I just got bored",
+  },
+  {
+    id: 8,
+    name: "Intrucduction To ahahah",
+    bio: " is this the way it works",
+  },
+  {
+    id: 9,
+    name: "Intrucduction To ape",
+    bio: "SAHHHH",
+  },
+  {
+    id: 10,
+    name: "Intrucduction To CHUCK",
+    bio: " i mean - you know",
+  },
 ];
 
 // it works YAY
